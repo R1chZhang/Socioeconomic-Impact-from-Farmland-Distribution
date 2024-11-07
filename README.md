@@ -57,8 +57,7 @@ This project investigates the impact of farmlands, specifically their classifica
 - **Vertical Farming Initiatives**: Identifying opportunities for sustainable development in urban areas.
 
 ## Visuals
-
-
+[Refer to the project presentation] (https://github.com/R1chZhang/Socioeconomic-Impact-from-Farmland-Distribution/blob/main/Results_Presentation.pdf)
 
 ## Conclusion
 
