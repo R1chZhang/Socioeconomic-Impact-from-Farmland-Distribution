@@ -68,8 +68,3 @@ This project underscores the complex relationship between farmland type and soci
 
 1. Droller, Federico, and Martin Fiszbein. “Staple Products, Linkages, and Development: Evidence from Argentina.” *The Journal of Economic History* (2021).
 2. Wang, S., Bai, X., Zhang, X., et al. “Urbanization can benefit agricultural production with large-scale farming in China.” *Nature Food* 2, 183–191 (2021).
-
-## Contact
-
-For further questions, please contact Yichi Zhang.
-
