@@ -61,7 +61,16 @@ This project investigates the impact of farmlands, specifically their classifica
 
 ## Conclusion
 
-This project underscores the complex relationship between farmland type and socioeconomic status, offering insights for further research and policy considerations.
+ As we quantified the magnitude of farm centralization based on production levels, in
+ general, regions that are more specialized in agricultural productions tend to bear better econmic status.
+ We've also detected a contrary observation in California that areas characterized by less commercialized
+ farms are usually better-off than heavily commercialized agricultural areas, which partly expalined how
+ attempts to establish a strict numeric relationships between cropland distributions and economic prosperity
+ could fail, since commercial and non-commercial croplands behave differently. In this way, the characteristic
+ of farm commercialization cannot be said to be equal to the regional farm speciallization. 
+Furthermore, we determied that the agricultural types across neighbouring areas are independent of each
+ other, suggesting that our results are not weakened by the risk of path dependency, in which certain central
+ farming areas can influence the agricultural modes in surroundings
 
 ## References
 
